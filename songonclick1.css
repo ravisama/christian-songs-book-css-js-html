@@ -1,8 +1,7 @@
-<b href="#" onClick="document.getElementById('shadowing').style.display='block';
+onClick="document.getElementById('shadowing').style.display='block';
            document.getElementById('left').style.display='none';
            document.getElementById('left').style.overflowY='hidden';
            document.getElementById('right').style.overflowY='hidden';
            document.getElementById('right').style.left='0px';
 
-          document.getElementById('box').style.display='block';">
-అందాల తార అరుదెంచె నాకై</b>
+          document.getElementById('box').style.display='block';
